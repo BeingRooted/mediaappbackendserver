@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "jumanji",
+      "url": "jum",
+      "embedLink": "https://www.youtube.com/embed/UNuBgWulmJL"
+    },
+    {
+      "id": "2",
+      "caption": "sjsj",
+      "url": "hhh",
+      "embedLink": "https://www.youtube.com/embed/_VkDEzoTfVf"
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "edaaa",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "sjsj",
+          "url": "hhh",
+          "embedLink": "https://www.youtube.com/embed/_VkDEzoTfVf"
+        },
+        {
+          "id": "1",
+          "caption": "jumanji",
+          "url": "jum",
+          "embedLink": "https://www.youtube.com/embed/UNuBgWulmJL"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "caption": "sjsj",
+      "embedLink": "https://www.youtube.com/embed/_VkDEzoTfVf",
+      "timeStamp": "02/01/2024, 03:29:26 PM",
+      "id": 2
+    }
+  ]
+}
